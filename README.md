@@ -1,6 +1,6 @@
 - 🤙 Hi, I’m Gregory Pots
 - 🌸 I’m interested in coding / fantasy books / anime / kpop / plants / vinyl / cooking
-- 🧑‍🏫 I’m currently learning React / Git / NodeJs
+- 🧑‍🏫 I’m currently learning React / Git / NodeJS
 - 👾 How to reach me gregorypots.com
 
 <!---
